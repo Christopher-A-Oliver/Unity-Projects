@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextMind.UnitySDK.Examples", "NextMind.UnitySDK.Examples.csproj", "{51CAE886-AF78-CC6A-C967-599FB7177E65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{26ED189E-CC51-4CC9-564A-CF7B40C9A342}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51CAE886-AF78-CC6A-C967-599FB7177E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CAE886-AF78-CC6A-C967-599FB7177E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CAE886-AF78-CC6A-C967-599FB7177E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CAE886-AF78-CC6A-C967-599FB7177E65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26ED189E-CC51-4CC9-564A-CF7B40C9A342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26ED189E-CC51-4CC9-564A-CF7B40C9A342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26ED189E-CC51-4CC9-564A-CF7B40C9A342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26ED189E-CC51-4CC9-564A-CF7B40C9A342}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
